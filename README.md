@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data and Data driven project
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data analytical project
-- 📫 How to reach me ...(biodunolanrewaju@gmail.com)
+- 📫 How to reach me ...(biodunolanrewaju@gmail.com) (https://www.linkedin.com/in/biodun-olanrewaju-36a8b6251/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
