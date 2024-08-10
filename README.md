@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Olanrewaju Abiodun, a Data Enthusiast
-- 👀 I’m interested in Data and Data Science
+- 👋 Hi, I’m Olanrewaju Abiodun, A detail-driven a Data Enthusiast with a passion for driving business growth through data-driven decision making,
+- 👀 I’m interested in Data and Data driven project
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data analytical project
-- 📫 How to reach me ...
+- 📫 How to reach me ...(biodunolanrewaju@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
